@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm **Akhilkumar** </h1>
+<h1 align="center">Hi 👋, I'm Akhilkumar </h1>
 <h3 align="center">A passionate Devops and SRE Engineer from India , Expertise in Open Shift, Kubernetes , Docker, Splunk , EKS , Apache Tomcat, Ansible, Bamboo , Linux , Python (django), SQL, PEGA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgentoo&label=Profile%20views&color=0e75b6&style=flat" alt="akhilgentoo" /> </p>
